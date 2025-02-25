@@ -1,16 +1,16 @@
-Quantium Retail Data Analytics
+**Quantium Retail Data Analytics**
 
-Overview
+**Overview**
 
 This project involves analyzing retail transaction data for Quantium to derive insights into customer purchasing behaviors, sales trends, and the impact of various retail experiments. The project is divided into two tasks:
 
-Task 1: Data cleaning, preprocessing, and exploratory data analysis (EDA) on customer transaction data.
+**Task 1:** Data cleaning, preprocessing, and exploratory data analysis (EDA) on customer transaction data.
 
-Task 2: A/B testing and experimental design to assess the impact of trial stores on sales.
+**Task 2:** A/B testing and experimental design to assess the impact of trial stores on sales.
 
-Task 1: Data Preprocessing & Exploratory Data Analysis (EDA)
-
-Steps:
+**Task 1: Data Preprocessing & Exploratory Data Analysis (EDA)
+**
+**Steps:**
 
 Data Loading: Imported transaction data (QVI_purchase_behaviour.csv & QVI_transaction_data.xlsx).
 
