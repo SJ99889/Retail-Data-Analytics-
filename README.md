@@ -8,8 +8,9 @@ This project involves analyzing retail transaction data for Quantium to derive i
 
 **Task 2:** A/B testing and experimental design to assess the impact of trial stores on sales.
 
-**Task 1: Data Preprocessing & Exploratory Data Analysis (EDA)
-**
+**Task 1: Data Preprocessing & Exploratory Data Analysis (EDA)**
+
+
 **Steps:**
 
 Data Loading: Imported transaction data (QVI_purchase_behaviour.csv & QVI_transaction_data.xlsx).
@@ -38,9 +39,9 @@ Merged transaction data with customer demographics for deeper insights.
 
 Examined monthly and seasonal sales patterns.
 
-Task 2: Experimentation & Impact Analysis
+**Task 2: Experimentation & Impact Analysis**
 
-Goal:
+**Goal:**
 
 Evaluate the impact of a trial on retail stores by selecting appropriate control stores and analyzing pre-trial and post-trial sales performance.
 
