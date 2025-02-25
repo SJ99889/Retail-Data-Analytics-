@@ -13,7 +13,7 @@ This project involves analyzing retail transaction data for Quantium to derive i
 
 **Steps:**
 
-Data Loading: Imported transaction data (QVI_purchase_behaviour.csv & QVI_transaction_data.xlsx).
+- Data Loading: Imported transaction data (QVI_purchase_behaviour.csv & QVI_transaction_data.xlsx).
 
 Data Cleaning:
 
